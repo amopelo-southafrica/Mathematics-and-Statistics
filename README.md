@@ -26,3 +26,14 @@ I use calculus, statistics and Python to examine numerical relationships, model 
 ## Tools
 
 Python, NumPy, pandas, SymPy, scikit-learn, Matplotlib, seaborn and Jupyter Notebook.
+
+## Research papers
+
+| Project | Paper | PDF |
+|:--|:--|:--|
+| Financial mathematics, interest and loans | [Read](financial-mathematics-interest-and-loans/RESEARCH_PAPER.md) | [PDF](financial-mathematics-interest-and-loans/RESEARCH_PAPER.pdf) |
+| Multiple regression of diabetes progression | [Read](modelling-diabetes-progression/RESEARCH_PAPER.md) | [PDF](modelling-diabetes-progression/RESEARCH_PAPER.pdf) |
+| Regression of insurance charges | [Read](predicting-insurance-charges/RESEARCH_PAPER.md) | [PDF](predicting-insurance-charges/RESEARCH_PAPER.pdf) |
+| Credit-record statistics and provenance audit | [Read](credit-records-statistical-profiling/RESEARCH_PAPER.md) | [PDF](credit-records-statistical-profiling/RESEARCH_PAPER.pdf) |
+
+The [credit dataset audit](credit-records-statistical-profiling/DATA_PROVENANCE.md) explains why the modified `Balance` column must not be interpreted as the original simulated dataset's dollar balances.
