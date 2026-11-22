@@ -11,6 +11,6 @@ The original notebook requests `diabetes(1).csv` with columns `Outcome`, `Glucos
 - [`diabetes_visualisation_corrected.ipynb`](diabetes_visualisation_corrected.ipynb): separately repaired notebook using nonzero medians; the original notebook is retained.
 - [`diabetes_visualisation.ipynb`](diabetes_visualisation.ipynb): original analysis notebook, now able to load the matching filename and schema.
 
-A full methodology and data-quality analysis is documented in the [AI Engineering research paper](https://github.com/amopelo-southafrica/AI-Engineering-and-Research/blob/main/Data-Analytics/visualising-diabetes-patterns/RESEARCH_PAPER.md) once built.
+A full methodology and data-quality analysis is documented in the [AI Engineering research paper](https://github.com/amopelo-southafrica/AI-Engineering-and-Research/blob/main/Data-Analytics/visualising-diabetes-patterns/RESEARCH_PAPER.md) now published, with a generated PDF.
 
 The dataset includes unrecorded or implausible zero values in several measurement columns. The notebook's median replacement method is descriptive preprocessing, not a validated clinical imputation method. This is educational analysis, not medical guidance.
