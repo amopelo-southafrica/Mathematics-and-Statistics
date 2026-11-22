@@ -1,26 +1,28 @@
 # Mathematics and Statistics
 
-I use mathematical reasoning, statistical analysis and Python to turn numerical data into calculations, comparisons, visualisations and interpretable models. This repository contains my work in financial mathematics, calculus, data processing, descriptive statistics and regression.
+I use calculus, statistics and Python to examine numerical relationships, model practical questions and explain what the data shows. Each folder contains a distinct investigation or implementation, including my original HyperionDev files where available.
 
-## Financial mathematics and calculus
+## Calculus & numerical methods
 
-- [Investment and Mortgage Calculators](financial-interest-and-mortgage-calculators/) — I built calculators for investment growth and home-loan repayments.
-- [Calculus](calculus/) — I explored derivatives and gradients for model error functions.
-- [Polynomial](polynomial/) — I wrote a polynomial differentiation programme using the power rule.
-- [Multivariable Symbolic Differentiation](multivariable-symbolic-differentiation/) — I used SymPy to compute partial derivatives.
-- [NumPy Array Mathematics](numpy-array-mathematics/) — I implemented numerical-array operations and indexing.
+- [Interest and mortgage modelling](financial-mathematics-interest-and-loans/)
+- [Rates of change and derivatives](calculus-and-changing-rates/)
+- [Polynomial differentiation](polynomial-functions-and-derivatives/)
+- [Partial derivatives and symbolic calculus](multivariable-calculus-and-partial-derivatives/)
+- [Linear algebra and discrete structures](linear-algebra-and-discrete-systems/)
+- [Numerical computing with NumPy](numerical-computing-with-numpy/)
 
-## Statistics, data cleaning and regression
+## Statistics & applied modelling
 
-- [Pandas Data Selection](pandas-data-selection/) — I filtered, indexed and sorted tabular credit records.
-- [Descriptive Credit Statistics](credit-record-descriptive-statistics/) — I calculated grouped averages, totals and frequencies.
-- [Store Income Data Cleaning](store-income-data-cleaning/) — I standardised country labels and worked with dates.
-- [Diabetes Statistical Visualisation](diabetes-statistical-visualisation/) — I explored distributions and differences in recorded measurements.
-- [Wine Varietal Exploration](wine-varietal-analysis/) — I filtered wine records by grape variety.
-- [Titanic Exploratory Statistics](titanic-exploratory-statistics/) — I explored passenger survival patterns through statistical visualisation.
-- [Diabetes Progression Regression](diabetes-multiple-linear-regression/) — I modelled diabetes progression with multiple linear regression.
-- [Insurance Cost Regression](insurance-cost-regression/) — I fitted a simple regression of insurance charges against age.
+- [Statistical profiling of credit records](credit-records-statistical-profiling/)
+- [Multiple linear regression for diabetes progression](modelling-diabetes-progression/)
+- [Visualising diabetes measurements](visualising-diabetes-measurements/)
+- [Regression of insurance charges](predicting-insurance-charges/)
+- [Structured data selection and reporting](working-with-structured-dataframes/)
+- [Data-quality checks for store income](cleaning-and-validating-income-data/)
+- [Statistical exploration of Titanic survival data](exploring-titanic-survival-patterns/)
+- [Wine varietal exploration](exploring-wine-varietal-patterns/)
+- [Statistics practical reports](statistical-methods-in-practice/)
 
 ## Tools
 
-Python, NumPy, pandas, SymPy, scikit-learn, Matplotlib, seaborn and Jupyter Notebook. Each project includes its own README describing the purpose, methods and inputs needed to reproduce the calculations.
+Python, NumPy, pandas, SymPy, scikit-learn, Matplotlib, seaborn and Jupyter Notebook.
